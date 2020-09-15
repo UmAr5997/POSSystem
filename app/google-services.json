@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108708944174",
+    "firebase_url": "https://pos-system-3c96c.firebaseio.com",
+    "project_id": "pos-system-3c96c",
+    "storage_bucket": "pos-system-3c96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108708944174:android:6af7e158c9e8f3376942bf",
+        "android_client_info": {
+          "package_name": "com.example.possystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108708944174-o2r0lmopegp2fh16sf615m8e1d9i51m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kboMvnfXCLtv941r8vIl8Oi86Id15EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108708944174-o2r0lmopegp2fh16sf615m8e1d9i51m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

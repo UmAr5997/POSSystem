@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">POS System</string>
+    <string name="product_image">Product Image</string>
+    <string name="sale">Sale</string>
+    <string name="btn_select_image">Select Image</string>
+    <string name="tv_product_name">Product Name</string>
+    <string name="tv_email_supplier">Email Supplier</string>
+    <string name="tv_price">Price</string>
+    <string name="tv_quantity">Quantity</string>
+</resources>
